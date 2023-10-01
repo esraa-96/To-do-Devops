@@ -1,0 +1,9 @@
+# Exclude development and build artifacts
+bin/
+obj/
+
+# Exclude Visual Studio project and solution files
+.vscode/
+.vs/
+
+**/.dockerignore
